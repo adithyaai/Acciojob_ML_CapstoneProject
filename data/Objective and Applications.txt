@@ -1,0 +1,19 @@
+Objective and Applications
+
+Objective: Understand the factors influencing the popularity of online news articles on social media.
+
+Applications:
+
+Useful for predictive modelling, content strategy, SEO optimization, and digital media research.
+Targets content creators, marketers, and media analysts for insights into article performance on social media platforms.
+
+Data Dictionaries:
+
+URL and Timing: Article URL and time elapsed since publication.
+Content Analysis: Article's title and content analysed in terms of word count, uniqueness, and non-stop words.
+Media Elements: Count of images, videos, and links (internal and external).
+Keyword Analysis: Performance of keywords in terms of shares.
+Data Channels: Article categories such as Lifestyle, Entertainment, Business, Social Media, Tech, or World.
+Publishing Day: Day of the week the article was published and its weekend status.
+Content Properties: Metrics like average word length, number of keywords, subjectivity, and sentiment polarity.
+Social Media Metrics: Article performance on social media, including shares and references in other articles.
